@@ -1,10 +1,28 @@
-State,Population at 31 March 2024 ('000),Change over previous year ('000),Change over previous year (%)
-New South Wales,8469.6,167.7,2
-Victoria,6959.2,184,2.7
-Queensland,5560.5,134.6,2.5
-South Australia,1873.8,27.3,1.5
-Western Australia,2951.6,89,3.1
-Tasmania,575.7,2.2,0.4
-Northern Territory,254.3,2,0.8
-Australian Capital Territory,472.8,8.4,1.8
-Australia,27122.4,615.3,2.3
+State,Attribute,Value
+New South Wales,Population at 31 March 2024 ('000),8469.6
+New South Wales,Change over previous year ('000),167.7
+New South Wales,Change over previous year (%),2
+Victoria,Population at 31 March 2024 ('000),6959.2
+Victoria,Change over previous year ('000),184
+Victoria,Change over previous year (%),2.7
+Queensland,Population at 31 March 2024 ('000),5560.5
+Queensland,Change over previous year ('000),134.6
+Queensland,Change over previous year (%),2.5
+South Australia,Population at 31 March 2024 ('000),1873.8
+South Australia,Change over previous year ('000),27.3
+South Australia,Change over previous year (%),1.5
+Western Australia,Population at 31 March 2024 ('000),2951.6
+Western Australia,Change over previous year ('000),89
+Western Australia,Change over previous year (%),3.1
+Tasmania,Population at 31 March 2024 ('000),575.7
+Tasmania,Change over previous year ('000),2.2
+Tasmania,Change over previous year (%),0.4
+Northern Territory,Population at 31 March 2024 ('000),254.3
+Northern Territory,Change over previous year ('000),2
+Northern Territory,Change over previous year (%),0.8
+Australian Capital Territory,Population at 31 March 2024 ('000),472.8
+Australian Capital Territory,Change over previous year ('000),8.4
+Australian Capital Territory,Change over previous year (%),1.8
+Australia,Population at 31 March 2024 ('000),27122.4
+Australia,Change over previous year ('000),615.3
+Australia,Change over previous year (%),2.3
